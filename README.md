@@ -3,8 +3,8 @@
 
 ## 1 семестр
 
-- [дз 1](1%20semester/homework1) — краткое описание дз 1
-- [дз 2](1%20semester/homework2) — краткое описание дз 2
+- [дз 1](https://github.com/Blackcaf/DM/blob/main/1%20semester/%D0%94%D0%971(%D0%9C%D0%B0%D0%BD%D1%82%D1%83%D1%88).docx) — краткое описание дз 1
+- [дз 2](https://github.com/Blackcaf/DM/blob/main/1%20semester/%D0%94%D0%972(%D0%9C%D0%B0%D0%BD%D1%82%D1%83%D1%88).docx) — краткое описание дз 2
 - [дз 3](1%20semester/homework3) — краткое описание дз 3
 - [Курсовая работа](1%20semester/coursework) — название или тема курсовой
 
